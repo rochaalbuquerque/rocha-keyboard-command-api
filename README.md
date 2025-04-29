@@ -28,6 +28,6 @@ test: (adding missing tests, refactoring tests; no production code change)
 chore: (updating grunt tasks etc; no production code change)
 
 # EXEMPLO:
-  git commit -m "feat(branche) add Swagger 3, configuraceo e implementacao"
+  git commit -m "feat(branche): add Swagger 3, configuraceo e implementacao"
 
 ```
